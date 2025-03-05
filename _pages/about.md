@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Atri Vivek Sharma, a PhD Student conducting research on Safe and Trusted Artificial Intelligence at Imperial College London.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in making Machine Learning algorithms safer - particularly in robustness and interpretability, to ultimately mitigate the major safety risks posed by the rapid development of AI technologies. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before my PhD, I was at Pangaea Data, a London-based startup focussed on applying AI within healthcare, where I led the development of an Natural Language Processing (NLP) product pipeline to identify at-risk or undiagnosed patients with specific diseases. My experience of using AI in health highlighted the pressing need of developing more robust and interpretable ML systems, that can be trusted by experts to make critical decisions.
