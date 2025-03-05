@@ -380,16 +380,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-phd-at-imperial-college-london-under-the-supervision-of-prof-alessio-lomuscio",
+          title: 'Started my PhD at Imperial College London under the supervision of Prof. Alessio...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-safe-intelligence-as-a-machine-learning-research-engineer",
+          title: 'Joined Safe Intelligence as a Machine Learning Research Engineer.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
