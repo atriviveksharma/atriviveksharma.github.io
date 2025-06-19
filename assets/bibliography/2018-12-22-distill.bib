@@ -8,3 +8,35 @@
   year = {2022},
   copyright = {Creative Commons Attribution 4.0 International}
 }
+
+@inproceedings{Sharma2025,
+    title={Learning Robust XGBoost Ensembles for Regression Tasks},
+    author={Sharma, Atri Vivek and Kouvaros, Panagiotis and Lomuscio, Alessio},
+    booktitle={Proceedings of the 41st Conference on Uncertainty in Artificial Intelligence (UAI)},
+    year={2025},
+    url= {https://openreview.net/pdf/c517ab1c1d17373a2adfcbc0eb81c632e724151a.pdf}
+    publisher={Openreview.net},
+    abstract={Methods to improve the adversarial robustness
+    of tree-based ensemble models for classification
+    tasks have received significant attention in recent
+    years. In this work, we propose a novel method for
+    training robust tree-based boosted ensembles. The
+    method leverages the XGBoost framework and is
+    applicable to any task that employs a differentiable
+    loss function. It particularly introduces an analyti-
+    cal solution to the upper-bound of the robust loss
+    function, that can be computed in constant time,
+    enabling the construction of robust splits without
+    sacrificing computational efficiency. Although our
+    method is general, we focus its application on re-
+    gression tasks, extending conventional regression
+    metrics to better quantify model robustness. An ex-
+    tensive evaluation on 19 regression datasets from a
+    widely-used tabular data benchmark demonstrates
+    that in the face of adversarial perturbations in the
+    input space, our proposed method results in ensem-
+    bles that are up to 44% more robust compared to
+    the present SoA and 113% more robust than the
+    conventional XGBoost model when considering
+    norm bounded attacks of radius 0.05.}
+}
