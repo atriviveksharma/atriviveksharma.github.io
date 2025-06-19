@@ -15,3 +15,35 @@ This paper proposes a scalable workflow which leverages both structured data and
 Case studies in the MIMIC-III dataset were conducted where the proposed workflow demonstrates a higher classification performance in terms of F1 scores compared to simply using ICD codes on gold testing subset to identify patients with Ovarian Cancer (0.901 vs 0.814), Lung Cancer (0.859 vs 0.828), Cancer Cachexia (0.862 vs 0.650), and Lupus Nephritis (0.959 vs 0.855). Also, the proposed workflow that leverages unstructured notes consistently outperforms the baseline that uses structured data only with an increase of F1 (Ovarian Cancer 0.901 vs 0.719, Lung Cancer 0.859 vs 0.787, Cancer Cachexia 0.862 vs 0.838 and Lupus Nephritis 0.959 vs 0.785). Experiments on the large testing set also demonstrate the proposed workflow can find more patients who are miscoded or missed by ICD codes. Moreover, interpretability studies are also conducted to clinically validate the top impact features of the classifiers.},
   arxiv = {2205.08891}
 }
+
+@inproceedings{Sharma2025,
+    title={Learning Robust XGBoost Ensembles for Regression Tasks},
+    author={Sharma, Atri Vivek and Kouvaros, Panagiotis and Lomuscio, Alessio},
+    booktitle={Proceedings of the 41st Conference on Uncertainty in Artificial Intelligence (UAI)},
+    year={2025},
+    url= {https://openreview.net/pdf/c517ab1c1d17373a2adfcbc0eb81c632e724151a.pdf}
+    publisher={Openreview.net},
+    abstract={Methods to improve the adversarial robustness
+    of tree-based ensemble models for classification
+    tasks have received significant attention in recent
+    years. In this work, we propose a novel method for
+    training robust tree-based boosted ensembles. The
+    method leverages the XGBoost framework and is
+    applicable to any task that employs a differentiable
+    loss function. It particularly introduces an analyti-
+    cal solution to the upper-bound of the robust loss
+    function, that can be computed in constant time,
+    enabling the construction of robust splits without
+    sacrificing computational efficiency. Although our
+    method is general, we focus its application on re-
+    gression tasks, extending conventional regression
+    metrics to better quantify model robustness. An ex-
+    tensive evaluation on 19 regression datasets from a
+    widely-used tabular data benchmark demonstrates
+    that in the face of adversarial perturbations in the
+    input space, our proposed method results in ensem-
+    bles that are up to 44% more robust compared to
+    the present SoA and 113% more robust than the
+    conventional XGBoost model when considering
+    norm bounded attacks of radius 0.05.}
+}
