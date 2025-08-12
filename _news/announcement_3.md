@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Learning Robust XGBoost Ensembles for Regression Tasks* has been accepted at the Uncertainty in Artificial Intelligence Conference 2025, being held in Rio de Janeiro!
+Our paper *Learning Robust XGBoost Ensembles for Regression Tasks* has been accepted at UAI 2025, held in Rio de Janeiro!
