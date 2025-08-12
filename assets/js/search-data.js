@@ -386,7 +386,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-safe-intelligence-as-a-machine-learning-research-engineer",
           title: 'Joined Safe Intelligence as a Machine Learning Research Engineer.',
           description: "",
-          section: "News",},{id: "news-our-paper-learning-robust-xgboost-ensembles-for-regression-tasks-has-been-accepted-at-the-uncertainty-in-artificial-intelligence-conference-2025-being-held-in-rio-de-janeiro",
+          section: "News",},{id: "news-our-paper-learning-robust-xgboost-ensembles-for-regression-tasks-has-been-accepted-at-uai-2025",
           title: 'Our paper Learning Robust XGBoost Ensembles for Regression Tasks has been accepted at...',
           description: "",
           section: "News",},{id: "projects-project-1",
