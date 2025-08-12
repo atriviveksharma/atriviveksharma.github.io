@@ -27,9 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m Atri Vivek Sharma, a PhD student at Imperial College London, researching Safe and Trusted Artificial Intelligence.
-
-My work focuses on enhancing the safety of Machine Learning algorithms, particularly in robustness and interpretability, to address key risks associated with the rapid advancement and deployment of AI in safety-critical domains. Currently, I am working on improving and assessing the adversarial robustness of models for tabular data such as XGBoost, at the [SAIL Lab](https://sail.doc.ic.ac.uk) under the supervision of [Prof. Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/).
+Hi! I’m Atri Vivek Sharma, a PhD student at Imperial College London. My work focuses on enhancing the safety of Machine Learning algorithms, particularly in robustness and interpretability, to address key risks associated with the rapid advancement and deployment of AI in safety-critical domains. Currently, I am working on improving and assessing the adversarial robustness of models for tabular data such as XGBoost, at the [SAIL Lab](https://sail.doc.ic.ac.uk) under the supervision of [Prof. Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/).
 
 Prior to my PhD, I worked at Pangaea Data, a London-based startup leveraging AI in healthcare. There, I led the development of an NLP-driven product pipeline designed to identify at-risk or undiagnosed patients with specific diseases. My experience in applying AI to healthcare underscored the urgent need for more reliable and interpretable ML systems that experts can trust for critical decision-making.
 
